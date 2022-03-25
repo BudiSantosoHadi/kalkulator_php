@@ -1,2 +1,3 @@
 # kalkulator_php
-kalkulator sederhana PHP_CLI
+<img src="https://upkoding-static.sgp1.cdn.digitaloceanspaces.com/projects/cover/1615791078-calulator.jpeg"></img>
+<h3>kalkulator sederhana PHP_CLI</h3>
